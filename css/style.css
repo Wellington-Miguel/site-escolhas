@@ -1,0 +1,16 @@
+body{
+    background-color: #7fffd4;
+}
+.topo{
+    display: flexbox;
+    align-items: center;
+    align-self: center;
+    justify-content: space-between;
+}
+.mid{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-self: center;
+    flex-direction: row;
+}
